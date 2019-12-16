@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/EmailService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/LogService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/FraudDetectorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/FraudDetectorService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/NewOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/NewOrderMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/ecommerce/NewOrderMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/ecommerce/NewOrderMain.class" afterDir="false" />
     </list>
@@ -71,6 +72,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FraudDetectorService (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.ecommerce.FraudDetectorService" />
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FraudDetectorService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.ecommerce.FraudDetectorService" />
       <module name="ecommerce" />
@@ -110,12 +124,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.EmailService" />
+      <item itemvalue="Application.FraudDetectorService" />
+      <item itemvalue="Application.FraudDetectorService (1)" />
+      <item itemvalue="Application.LogService" />
+      <item itemvalue="Application.NewOrderMain" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.NewOrderMain" />
+        <item itemvalue="Application.FraudDetectorService" />
         <item itemvalue="Application.LogService" />
         <item itemvalue="Application.EmailService" />
-        <item itemvalue="Application.FraudDetectorService" />
       </list>
     </recent_temporary>
   </component>
