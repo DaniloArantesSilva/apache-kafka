@@ -1,0 +1,5 @@
+/home/danilo/Área de Trabalho/kafka/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/KafkaService.java
+/home/danilo/Área de Trabalho/kafka/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/KafkaDispatcher.java
+/home/danilo/Área de Trabalho/kafka/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/ConsumerFunction.java
+/home/danilo/Área de Trabalho/kafka/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/GsonSerializer.java
+/home/danilo/Área de Trabalho/kafka/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/GsonDeserializer.java
