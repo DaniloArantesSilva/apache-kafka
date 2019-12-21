@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aee54d7-dd71-403e-af6d-1ce59871e7e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/ConsumerFunction.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/KafkaDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/KafkaService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/LogService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/FraudDetectorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/FraudDetectorService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/NewOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/ecommerce/NewOrderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/ecommerce/FraudDetectorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/ecommerce/FraudDetectorService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/ecommerce/NewOrderMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/ecommerce/NewOrderMain.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -37,12 +42,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../NewRelic/gbr-web" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.ecommerce" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.alura.ecommerce" />
     </key>
   </component>
@@ -125,18 +134,18 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.FraudDetectorService (1)" />
       <item itemvalue="Application.EmailService" />
       <item itemvalue="Application.FraudDetectorService" />
-      <item itemvalue="Application.FraudDetectorService (1)" />
       <item itemvalue="Application.LogService" />
       <item itemvalue="Application.NewOrderMain" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.NewOrderMain" />
+        <item itemvalue="Application.EmailService" />
         <item itemvalue="Application.FraudDetectorService" />
         <item itemvalue="Application.LogService" />
-        <item itemvalue="Application.EmailService" />
       </list>
     </recent_temporary>
   </component>
@@ -158,10 +167,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ecommerce$NewOrderMain.ic" NAME="NewOrderMain Coverage Results" MODIFIED="1576890401453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.alura.ecommerce.*</FILTER>
+    </SUITE>
   </component>
 </project>
