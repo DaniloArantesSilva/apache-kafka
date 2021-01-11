@@ -177,6 +177,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="716" y="223" width="478" height="587" key="#com.intellij.ide.util.MemberChooser" timestamp="1610335663463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="223" width="478" height="587" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610335663463" />
     <state x="693" y="269" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610314022789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -189,6 +193,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="376" y="217" width="1157" height="598" key="new project wizard/0.0.1920.1040/1920.0.1366.768@0.0.1920.1040" timestamp="1610313843122" />
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1610335569283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610335569283" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ecommerce$NewOrderMain.ic" NAME="NewOrderMain Coverage Results" MODIFIED="1576890401453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
