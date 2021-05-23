@@ -1,5 +1,7 @@
 package br.com.alura.ecommerce;
 
+import br.com.alura.ecommerce.dispatcher.KafkaDispatcher;
+
 import java.io.IOException;
 import java.util.concurrent.ExecutionException;
 import javax.servlet.ServletException;

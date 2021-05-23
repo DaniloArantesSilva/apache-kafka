@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1aee54d7-dd71-403e-af6d-1ce59871e7e2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,42 +21,44 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1UzI25QuMzReKHViCl2yr8xmCuC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/common-kafka/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/service-reading-report/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service-email-new-order/src/main/java" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.alura.ecommerce" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service-email-new-order/src/main/java" />
+      <recent name="$PROJECT_DIR$/service-reading-report/src/main/java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="br.com.alura.ecommerce" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="br.com.alura.ecommerce" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/service-reading-report/src/main/java" />
     </key>
   </component>
   <component name="RunManager" selected="Application.EmailService">
@@ -62,7 +67,7 @@
       <module name="serviceemail" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="PATTERN" value="br.com.alura.ecommerce.dispatcher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,7 +80,7 @@
       <module name="servicefrauddetector" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="PATTERN" value="br.com.alura.ecommerce.dispatcher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,7 +93,7 @@
       <module name="servicelog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="PATTERN" value="br.com.alura.ecommerce.dispatcher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,7 +106,7 @@
       <module name="serviceneworder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="PATTERN" value="br.com.alura.ecommerce.dispatcher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,7 +119,7 @@
       <module name="service-reading-report" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="PATTERN" value="br.com.alura.ecommerce.dispatcher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,6 +155,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -168,35 +174,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="716" y="223" width="478" height="587" key="#com.intellij.ide.util.MemberChooser" timestamp="1610335663463">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="716" y="223" width="478" height="587" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610335663463" />
-    <state x="693" y="269" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610314022789">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="693" y="269" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1366.768@0.0.1920.1040" timestamp="1610314022789" />
-    <state x="464" y="154" key="SettingsEditor" timestamp="1610313800839">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="464" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1366.768@0.0.1920.1040" timestamp="1610313800839" />
-    <state x="376" y="217" width="1157" height="598" key="new project wizard" timestamp="1610313843122">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="376" y="217" width="1157" height="598" key="new project wizard/0.0.1920.1040/1920.0.1366.768@0.0.1920.1040" timestamp="1610313843122" />
-    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1610335569283">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610335569283" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ecommerce$NewOrderMain.ic" NAME="NewOrderMain Coverage Results" MODIFIED="1576890401453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
